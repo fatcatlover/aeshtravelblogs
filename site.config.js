@@ -33,7 +33,7 @@ const CONFIG = {
   },
 
   // notion configuration (required)
-  notionConfig: {
+  notionConfig: {https://www.notion.so/303986b712334ba3a05504dd5d694b70?v=bee65dc548f643b78383555824982c12&pvs=4
     pageId: process.env.NOTION_PAGE_ID,
   },
 
